@@ -21,4 +21,12 @@ Para isso, a operadora conta com a equipe de arquiteto de **Big Data** para ajud
 2. Baixo risco: Peso e colesterol baixos
 3. Moderado risco: Peso e colesterol medianos
 
-## 📋 Etapas do Processamento do Big Data
+## 📋 Etapas do Processamento do Big Data </br>
+![Processamento Big Data](https://github.com/Sidnasciment0/coleta-analise-dados-dp-m1/blob/main/img/processamento_bigdata.png) </br>
+
+## Visualizando o Gráfico do Cotovelo
+![Gráfico Cotovelo](https://github.com/Sidnasciment0/coleta-analise-dados-dp-m1/blob/main/img/grafico_cotovelo.png) </br>
+
+## Calculando os centroídes de cada cluster
+Aqui temos os centroídes dos 3 cluster de acordo com os atribuitos. Nesse exemplo vemos os centróudes de 'peso' e 'colesterol' respectivamente
+![Análise Cluster](https://github.com/Sidnasciment0/coleta-analise-dados-dp-m1/blob/main/img/analise_clusters.png) </br>
