@@ -1,4 +1,15 @@
 # 📊 Desafio - Módulo 01
+Os alunos deverão desempenhar as seguintes atividades:
+
+- Criar um projeto no Google Drive.
+- Coletar e analisar os dados dos seguintes datasets:
+- dados_clientes
+- estados_brasileiros
+- idade_clientes
+- Manipular dados e corrigir erros se necessário;
+- Implementar algoritmo não supervisionado Kmeans; 
+- Criar agrupamento para 4 grupos distintos;
+- Responder as questões teóricas e práticas do trabalho.
 
 ## 🔎 Case - Processamento Big Data
 
